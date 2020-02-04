@@ -1,4 +1,4 @@
-# gitskills
+# sinaWeibo crawler
 本测试项目为爬虫爬取新浪微博并分析数据的实现代码  
 使用平台为jupyter notebook   
 编程语言为python  
